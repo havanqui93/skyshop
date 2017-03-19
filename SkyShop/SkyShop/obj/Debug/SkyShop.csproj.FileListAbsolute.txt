@@ -1,0 +1,150 @@
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\roslyn\csc.exe
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\roslyn\System.Collections.Immutable.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\roslyn\vbc.exe
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\roslyn\VBCSCompiler.exe
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\roslyn\VBCSCompiler.exe.config
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\SkyShop.dll.config
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\SkyShop.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\SkyShop.pdb
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Antlr3.Runtime.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\EntityFramework.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\EntityFramework.SqlServer.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Google.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Web.Infrastructure.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Newtonsoft.Json.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Owin.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Net.Http.Formatting.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.Helpers.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.Http.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.Http.WebHost.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.Mvc.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.Optimization.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.Razor.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.WebPages.Deployment.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.WebPages.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.WebPages.Razor.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\WebGrease.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.Helpers.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.Mvc.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.Optimization.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.Razor.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.WebPages.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.WebPages.Deployment.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.WebPages.Razor.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Antlr3.Runtime.pdb
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Newtonsoft.Json.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Net.Http.Formatting.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.Http.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\System.Web.Http.WebHost.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\EntityFramework.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\EntityFramework.SqlServer.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Google.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\obj\Debug\SkyShop.dll
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\obj\Debug\SkyShop.pdb
+E:\Sky Shop\SKY SHOP\SkyShop\SkyShop\obj\Debug\SkyShop.csprojResolveAssemblyReference.cache
+E:\Sky Shop\SkyShop\SkyShop\bin\roslyn\csc.exe
+E:\Sky Shop\SkyShop\SkyShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sky Shop\SkyShop\SkyShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sky Shop\SkyShop\SkyShop\bin\roslyn\System.Collections.Immutable.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\roslyn\vbc.exe
+E:\Sky Shop\SkyShop\SkyShop\bin\roslyn\VBCSCompiler.exe
+E:\Sky Shop\SkyShop\SkyShop\bin\roslyn\VBCSCompiler.exe.config
+E:\Sky Shop\SkyShop\SkyShop\bin\SkyShop.dll.config
+E:\Sky Shop\SkyShop\SkyShop\bin\SkyShop.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\SkyShop.pdb
+E:\Sky Shop\SkyShop\SkyShop\bin\Antlr3.Runtime.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\EntityFramework.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\EntityFramework.SqlServer.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Google.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Web.Infrastructure.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Newtonsoft.Json.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Owin.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Net.Http.Formatting.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.Helpers.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.Http.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.Http.WebHost.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.Mvc.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.Optimization.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.Razor.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.WebPages.Deployment.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.WebPages.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.WebPages.Razor.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\WebGrease.dll
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.Helpers.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.Mvc.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.Optimization.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.Razor.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.WebPages.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.WebPages.Deployment.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.WebPages.Razor.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Antlr3.Runtime.pdb
+E:\Sky Shop\SkyShop\SkyShop\bin\Newtonsoft.Json.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Net.Http.Formatting.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.Http.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\System.Web.Http.WebHost.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\EntityFramework.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\EntityFramework.SqlServer.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Google.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Sky Shop\SkyShop\SkyShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Sky Shop\SkyShop\SkyShop\obj\Debug\SkyShop.csprojResolveAssemblyReference.cache
+E:\Sky Shop\SkyShop\SkyShop\obj\Debug\SkyShop.dll
+E:\Sky Shop\SkyShop\SkyShop\obj\Debug\SkyShop.pdb

@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<section id="newproduct" class="section">
+    <div class="container">
+        <h5 class="subpage-title">
+            <span>Sản phẩm mới nhất</span>
+        </h5>
+        <div class="row">
+            @{
+                for (int i = 0; i < 20; i++)
+                {
+                    <div class="col-sm-6 col-md-3">
+                        <div class="thumbnail">
+                            <img src="~/Content/imgproduct/JCA129.jpg" />
+                            <div class="caption">
+                                <div class="box-offer-title"><a href="tours-single.html" class="text-gray-base">Turkey</a></div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                        <div class="offer-proc-bottom">
+                            <div class="offer-more">
+                                <i class="fa fa-info-circle"></i> Chi tiết
+                            </div>
+                            <div class="offer-price">
+                                <div>$2,000</div>
+                            </div>
+                        </div>
+                    </div>
+
+                }
+            }
+
+
+        </div>
+
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+</section>
+
+@section scripts {
+    
+}

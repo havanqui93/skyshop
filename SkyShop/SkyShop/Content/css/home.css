@@ -1,0 +1,88 @@
+﻿body {
+    font-size: 13px;
+    font-family: -webkit-body;
+}
+
+.form-control {
+    border-radius: 0px;
+}
+
+.btn {
+    border-radius: 0px;
+}
+
+/*body*/
+
+#newproduct .thumbnail {
+    margin-top: 50px;
+}
+
+.thumbnail > img {
+    max-height: 350px;
+}
+
+.subpage-title {
+    text-transform: uppercase;
+    position: relative;
+    margin: 0;
+    margin-bottom: 35px;
+    line-height: 10px;
+    font-weight: 800;
+    color: #000;
+}
+
+    .subpage-title:before {
+        content: "";
+        width: 35px;
+        height: 3px;
+        background-color: #3498db;
+        display: block;
+        position: absolute;
+        bottom: -15px;
+        left: 0;
+    }
+
+.btn-more {
+    width: 100%;
+    background-color: #2c3e50;
+    color: #fff;
+}
+
+.offer-proc-bottom {
+    width: 100%;
+    float: left;
+    border: 1px solid #dddddd;
+}
+
+#body {
+    margin: 50px 0px;
+}
+
+.thumbnail {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.offer-more, .offer-price {
+    width: 50%;
+    float: left;
+    padding: 10px;
+}
+
+.offer-more {
+    border-right: 1px solid;
+    background: #2c3e50;
+    color: #fff;
+    text-align: center;
+}
+
+    .offer-more:hover {
+        background: #3498db;
+        cursor:pointer;
+    }
+
+.offer-price {
+    text-align: center;
+}
