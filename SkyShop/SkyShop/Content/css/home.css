@@ -21,6 +21,14 @@
     max-height: 350px;
 }
 
+    .thumbnail > img:hover {
+        opacity: 0.7;
+        filter: alpha(opacity=50); /* For IE8 and earlier */
+        background-color: #3498db;
+        cursor: pointer;
+    }
+
+
 .subpage-title {
     text-transform: uppercase;
     position: relative;
@@ -51,7 +59,9 @@
 .offer-proc-bottom {
     width: 100%;
     float: left;
-    border: 1px solid #dddddd;
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
 }
 
 #body {
@@ -80,9 +90,88 @@
 
     .offer-more:hover {
         background: #3498db;
-        cursor:pointer;
+        cursor: pointer;
     }
 
 .offer-price {
     text-align: center;
+}
+
+.box-offer-title {
+    font-size: 15px;
+}
+
+    .box-offer-title a {
+        text-decoration: none;
+    }
+
+.main-price {
+    float: left;
+    margin-top: 0px;
+    text-decoration: line-through;
+    margin-left: 5px;
+}
+
+.sale-price {
+    float: left;
+    font-size: 15px;
+}
+
+/*product css*/
+.product-info.product-info-2 .previous-price {
+    font-size: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+
+.product-info .previous-price {
+    text-decoration: line-through;
+    margin-right: 10px;
+}
+
+.product-info.product-info-2 .price {
+    font-size: 30px;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+
+.product-info .price {
+    font-size: 18px;
+    color: #3498db;
+    font-weight: 700;
+}
+
+.color-skin-3 .flat-color:hover, .color-skin-3 .flat-color.btn-bordered {
+    background-color: transparent;
+}
+
+.btn-flat:not(.btn-rounded) {
+    border-radius: 0;
+}
+
+.flat-color:hover, .flat-color.btn-bordered {
+    background-color: transparent;
+    color: #2ecc71;
+}
+
+.flat-color, .flat-color:hover, .flat-color:active {
+    border: 2px solid #3498db;
+    color: #3498db;
+}
+
+.carousel-indicators .active {
+    border-radius: 0px;
+}
+
+.flat-color {
+    background-color: #3498db;
+    color: #fff;
+}
+
+#wrapper-description {
+    margin-top: 30px;
+}
+
+.carousel-indicators li{
+    border-radius:0px !important;
 }

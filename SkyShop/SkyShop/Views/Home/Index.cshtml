@@ -1,6 +1,7 @@
 ﻿@{
     ViewBag.Title = "Home Page";
 }
+
 <section id="newproduct" class="section">
     <div class="container">
         <h5 class="subpage-title">
@@ -14,16 +15,26 @@
                         <div class="thumbnail">
                             <img src="~/Content/imgproduct/JCA129.jpg" />
                             <div class="caption">
-                                <div class="box-offer-title"><a href="tours-single.html" class="text-gray-base">Turkey</a></div>
+                                <div class="box-offer-title"><a href="tours-single.html" class="text-gray-base">Váy đen</a></div>
                                 <div class="clearfix"></div>
                             </div>
                         </div>
                         <div class="offer-proc-bottom">
                             <div class="offer-more">
-                                <i class="fa fa-info-circle"></i> Chi tiết
+                                <a href="/Product">
+                                    <i class="fa fa-info-circle"></i>
+                                    Chi tiết
+                                </a>
                             </div>
                             <div class="offer-price">
-                                <div>$2,000</div>
+                                <div class="sale-price">$2,000</div>
+                                @{
+                                    if (i % 2 == 0)
+                                    {
+                                        <div class="main-price">$2,500</div>
+                                    }
+                                }
+
                             </div>
                         </div>
                     </div>
