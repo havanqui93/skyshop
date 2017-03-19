@@ -91,6 +91,8 @@
     .offer-more:hover {
         background: #3498db;
         cursor: pointer;
+        color:#fff;
+        text-decoration:none;
     }
 
 .offer-price {

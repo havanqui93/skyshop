@@ -26,10 +26,6 @@
 }
 
 #footer-1 .subpage-title {
-    color: #ffffff;
-}
-
-#footer-1 .subpage-title {
     text-transform: uppercase;
     position: relative;
     margin: 0;
@@ -37,7 +33,6 @@
     line-height: 10px;
     font-weight: 800;
     color: #fff;
-    margin-top: 50px;
 }
 
     #footer-1 .subpage-title:before {
